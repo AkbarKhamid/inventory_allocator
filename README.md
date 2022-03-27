@@ -12,7 +12,7 @@
   source env/bin/activate
 
   # install requirements
-  pip install -r server/requirements.txt
+  pip install -r requirements.txt
 
   # or just
   pip install pytest
